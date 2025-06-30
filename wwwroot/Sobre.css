@@ -1,0 +1,36 @@
+﻿.aula{
+    font-size: 30px;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.p {
+    font-family:'Times New Roman', Times, serif;
+    font-size: 20px;
+    text-align:justify;
+   
+}
+
+.aprender {
+    font-size: 15px;
+    text-align: justify;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.favoritos {
+    font-size: 15px;
+    text-align: justify;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.gosto {
+    font-size: 15px;
+    text-align: justify;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.profissoes {
+    font-size: 15px;
+    text-align: justify;
+    font-family: 'Times New Roman', Times, serif;
+}
