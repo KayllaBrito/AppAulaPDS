@@ -1,35 +1,56 @@
-﻿.aula{
-    font-size: 30px;
-    text-align: center;
-    font-family: 'Times New Roman', Times, serif;
-}
+﻿
 
 .p {
-    font-family:'Times New Roman', Times, serif;
+    border-bottom: 2px solid;
+    font-family: 'Times New Roman', Times, serif;
     font-size: 20px;
-    text-align:justify;
-   
+    text-align: justify;
 }
 
-.aprender {
+
+.eu {
+    border-bottom: 2px solid;
+    font-size: 15px;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: justify;
+}
+
+.h3 {
+    border-bottom: 2px solid;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+.hobbie {
+    border-bottom: 2px solid;
     font-size: 15px;
     text-align: justify;
     font-family: 'Times New Roman', Times, serif;
 }
 
-.favoritos {
+.aprender {
+    border-bottom: 2px solid;
+    font-size: 15px;
+    text-align: justify;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.favorito {
+    border-bottom: 2px solid;
     font-size: 15px;
     text-align: justify;
     font-family: 'Times New Roman', Times, serif;
 }
 
 .gosto {
+    border-bottom: 2px solid;
     font-size: 15px;
     text-align: justify;
     font-family: 'Times New Roman', Times, serif;
 }
 
 .profissoes {
+    border-bottom: 2px solid;
     font-size: 15px;
     text-align: justify;
     font-family: 'Times New Roman', Times, serif;
